@@ -18,33 +18,6 @@
 | YOLOv8+ResGAM | 1024 | 49.29M | 183.5G | 0.64 | 64.98% | 41.75% | 18.1ms |
 | YOLOv8+ResCBAM | 1024 | 53.87M | 196.2G | 0.64 | 65.78% | 42.16% | 8.7ms |
 
-## Citation
-If you find our paper useful in your research, please consider citing:
-
-**Conference version (accepted by ICONIP 2024)**
-```
-  @inproceedings{ju2025yolov8,
-    title={Yolov8-rescbam: Yolov8 based on an effective attention module for pediatric wrist fracture detection},
-    author={Ju, Rui-Yang and Chien, Chun-Tse and Chiang, Jen-Shiun},
-    booktitle={International Conference on Neural Information Processing},
-    pages={403--416},
-    year={2025},
-    organization={Springer}
-  }
-```
-
-**Journal version (accepted by IEEE Access 2025):**
-```
-  @article{chien2025yolov8,
-    title={YOLOv8-AM: YOLOv8 Based on Effective Attention Mechanisms for Pediatric Wrist Fracture Detection},
-    author={Chien, Chun-Tse and Ju, Rui-Yang and Chou, Kuang-Yi and Xieerke, Enkaer and Chiang, Jen-Shiun},
-    journal={IEEE Access},
-    volume={13},
-    pages={52461-52477},
-    year={2025},
-    publisher={IEEE}
-  }
-```
 
 ## Environment
 ```
