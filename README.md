@@ -2,7 +2,6 @@
 
 >[YOLOv8-AM: YOLOv8 with Attention Mechanisms for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/2402.09329)
 
-## :tada::tada::tada: NEWS: [Our split dataset is available now !!!](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)
 
 ## Architecture
 <p align="center">
